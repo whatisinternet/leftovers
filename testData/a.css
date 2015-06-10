@@ -1,0 +1,7 @@
+.test_node--active{
+  text: green;
+}
+
+.fail-test_node--active{
+  text: green;
+}
